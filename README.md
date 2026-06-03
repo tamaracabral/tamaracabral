@@ -1,6 +1,13 @@
-## Olá, eu sou a Tamara Cabral
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Analista de Suporte Técnico na CTC
+🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas
+🚀 Em transição para Desenvolvimento Front-End
+📚 Atualmente estudando:
+React
+TypeScript
+JavaScript
+HTML
+CSS
+Git e GitHub
 
 <div align="center">
   <a href="https://github.com/tamaracabral">
